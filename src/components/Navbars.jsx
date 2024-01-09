@@ -7,10 +7,10 @@ import svg2 from "../../public/Rectangle408.svg";
 import { FaBars, FaWindowClose } from "react-icons/fa";
 
 const MENU_LIST = [
-  { text: "Home", href: "#" },
+  { text: "Home", href: "/" },
   { text: "Courses", href: "/courses" },
   { text: "Certificate Courses", href: "/courseCertificate" },
-  { text: "Abroad Studies", href: "#" },
+  // { text: "Abroad Studies", href: "#" },
   // { text: "Blogs", href: "/blog" },
   {
     text: "Youtube",
@@ -19,7 +19,7 @@ const MENU_LIST = [
   },
   { text: "Testimonials", href: "/testimonials" },
   { text: "About Us", href: "/about" },
-  { text: "Contact", href: "#contact" },
+  { text: "Contact", href: "/#contact" },
 ];
 const Navbars = () => {
   const [navActive, setNavActive] = useState(false);
