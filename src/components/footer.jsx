@@ -50,6 +50,22 @@ const Footer = () => {
                       Courses
                     </Link>
                   </li>
+                  <li className="mb-2">
+                    <Link
+                      href="/testimonials"
+                      className="text-white hover:text-gray-600 font-inter pr-4"
+                    >
+                      Testimonials
+                    </Link>
+                  </li>
+                  <li className="mb-2">
+                    <Link
+                      href="https://www.youtube.com/@Pharmacad"target="_blank"
+                      className="text-white hover:text-gray-600 font-inter pr-4"
+                    >
+                      Youtube
+                    </Link>
+                  </li>
 
                   {/* <li className="mb-2">
                     <Link
@@ -62,7 +78,7 @@ const Footer = () => {
 
                   <li className="mb-2">
                     <Link
-                      href="#about"
+                      href="/about"
                       className="text-white hover:text-gray-600 font-inter pr-4"
                     >
                       About Us
@@ -78,7 +94,7 @@ const Footer = () => {
                   </li>
                   <li className="mb-2">
                     <Link
-                      href="#contact"
+                      href="/#contact"
                       className="text-white hover:text-gray-600 font-inter pr-4"
                     >
                       Contact

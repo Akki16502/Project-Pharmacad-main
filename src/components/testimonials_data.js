@@ -38,8 +38,8 @@ const data = [
         "testimonial": "Pharmacad is One of the most helpful platforms for all pharma students. All study-related materials and videos are impeccable. The quality of the concepts is unmatched. Absolutely full coverage with all that's needed. All the faculty are so helpful and always have been very supportive… Overall, it's just amazing!",
         "name": "Paulami Dutta",
         "rank": "AIR 10 – NIPER 2022 | AIR 33 – GPAT 2022",
-        "link": "St.WILFRED'S INSTITUTE OF PHARMACY - PANVEL",
-        "college": "https://www.swippanvel.in/"
+        "link": "https://www.swippanvel.in/",
+        "college": "St.WILFRED'S INSTITUTE OF PHARMACY - PANVEL"
     },
     {
         "id": 19,
@@ -118,7 +118,7 @@ const data = [
         "name": "Aditi Bhat",
         "rank": "AIR 62 – GPAT 2019",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -127,7 +127,7 @@ const data = [
         "name": "Dharmesh Mehta",
         "rank": "AIR 66 – NIPER 2017",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -136,7 +136,7 @@ const data = [
         "name": "Gayatri Tambe",
         "rank": "AIR 79 – GPAT 2021",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -145,7 +145,7 @@ const data = [
         "name": "Sanjana Nayak",
         "rank": "AIR 80 – NIPER 2018 | AIR 175 – GPAT 2018",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -154,7 +154,7 @@ const data = [
         "name": "Harshita Dalvi",
         "rank": "AIR 106 – GPAT 2019",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -163,7 +163,7 @@ const data = [
         "name": "Kanan Panchal",
         "rank": "AIR 142 – NIPER 2018 | AIR 227 – GPAT 2018",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -172,7 +172,7 @@ const data = [
         "name": "Shubhangi Dwivedi",
         "rank": "AIR 208 – NIPER 2019 | AIR 270 – GPAT 2019",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -181,7 +181,7 @@ const data = [
         "name": "Vrushali Sadhu",
         "rank": "AIR 279 – NIPER 2019 | AIR 326 – GPAT 2019",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -190,7 +190,7 @@ const data = [
         "name": "Ashuta Parab",
         "rank": "AIR 552 – GPAT 2020",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -199,7 +199,7 @@ const data = [
         "name": "Saleha Khan",
         "rank": "AIR 173 – NIPER 2019  | AIR 821 – GPAT 2018 ",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -208,7 +208,7 @@ const data = [
         "name": "Suraj Gupta",
         "rank": "AIR 211 – NIPER 2018 | AIR 873 – GPAT 2018 ",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -217,7 +217,7 @@ const data = [
         "name": "Vidhi Joshi",
         "rank": "AIR 846 – GPAT 2019",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -226,7 +226,7 @@ const data = [
         "name": "Ashay Kumar",
         "rank": "GPAT 2018 – QUALIFIED",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
     {
@@ -235,7 +235,7 @@ const data = [
         "name": "Ranchana Gore",
         "rank": "GPAT 2019 – QUALIFIED",
         "link": "",
-        "college": "https://www.swippanvel.in/"
+        "college": ""
 
     },
 
