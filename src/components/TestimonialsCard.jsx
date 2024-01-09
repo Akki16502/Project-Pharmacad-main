@@ -1,13 +1,14 @@
 // Import all SVG files in the directory
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const TestimonialsCard = ({ cardData }) => {
   if (!cardData) {
     return null;
   }
 
-  const { id, testimonial, name, rank, college } = cardData;
+  const { id, testimonial, name, rank, college, link } = cardData;
   // const str = id.toString();
   const svg =
     require(`../../public/testimonialsImages/${id}${name}.webp`).default;
@@ -40,7 +41,10 @@ const TestimonialsCard = ({ cardData }) => {
             {/* <div className="px-6 font-poppins font-thin text-xs  lg:px-6 lg:font-poppins lg:font-bold lg:text-sm">
               {rank}
             </div> */}
-            <div className="px-6 font-semibold pt-1"> {college}</div>
+            <div className="px-6 font-semibold pt-2">
+              <Link href={`${link}`}target="_blank">{`${college}`}</Link>
+            </div>            
+            
           </div>
         </div>
 
