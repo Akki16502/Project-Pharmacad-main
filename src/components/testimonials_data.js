@@ -153,8 +153,8 @@ const data = [
         "testimonial": "Pharmacad helped me prepare and gear up for exams by Online Test Series which served to improve my performance and confidence both.",
         "name": "Harshita Dalvi",
         "rank": "AIR 106 – GPAT 2019",
-        "link": "",
-        "college": ""
+        "link": "https://www.bcp.edu.in/",
+        "college": "Bombay College of Pharmacy"
 
     },
     {
