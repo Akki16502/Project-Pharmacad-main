@@ -99,8 +99,8 @@ const data = [
         "testimonial": "Pharmacad is an ideal place for the all-around development of a pharma student. Apart from entrance exam preparations, Pharmacad has helped me expand my knowledge! About the other fields of pharmacy through various seminars organized by the team. I’m really grateful to the team for helping me become a proud pharmacist as the tagline suggests!",
         "name": "Simone Mendonca",
         "rank": "AIR 37 (MBA) – NIPER | AIR 471 – GPAT 2020",
-        "link": "",
-        "college": ""
+        "link": "https://www.sjipr.edu.in/",
+        "college": "St John's Institute of Pharmacy"
 
     },
     {
@@ -108,8 +108,8 @@ const data = [
         "testimonial": "Pharmacad is the right choice to be a good pharmacist. My dream to score well in GPAT entrance was fulfilled because of the immense efforts of the team. All the study material provided was to the point which gave us an idea of how to do GPAT oriented study. The timely tests prepared us well.",
         "name": "Archana Rajadhyax",
         "rank": "AIR 56 – NIPER | AIR 85 – GPAT 2018",
-        "link": "",
-        "college": ""
+        "link": "https://sndt.ac.in/index.php/cushahpharmacy",
+        "college": "SNDT C. U. Shah College Of Pharmacy"
 
     },
     {
@@ -117,8 +117,8 @@ const data = [
         "testimonial": "Pharmacad is the best option for every GPAT/NIPER aspirant who wishes to study and then give exams and get an overall view of our standing in this competitive world.All the tests were conducted online and thus gave us a practice for the final exam proved to be very useful in terms of last minute preparations.",
         "name": "Aditi Bhat",
         "rank": "AIR 62 – GPAT 2019",
-        "link": "",
-        "college": ""
+        "link": "https://www.bcp.edu.in/",
+        "college": "Bombay College Of Pharmacy"
 
     },
     {
@@ -126,8 +126,8 @@ const data = [
         "testimonial": "With Pharmacad, Dreams Have Turned into Reality!!! Hard work in The Right Direction as Guided by Pharmacad Counsellors Helped Me Work Efficiently for My Goal and Ultimately the Target Achieved! For a Future I Thought of, Pharmacad Helped Me Reach There with the Perfect Counselling Sessions, Available at All Times for All the Doubts!Thank You Pharmacad!!Thanks Gayatri Ma’am, Jigyasa Ma’am & Pranav Sir !!!! A Perfect Academy to Reach Your Goals!!!",
         "name": "Dharmesh Mehta",
         "rank": "AIR 66 – NIPER 2017",
-        "link": "",
-        "college": ""
+        "link": "https://vespharmacy.ves.ac.in/",
+        "college": "VES College Of Pharmacy"
 
     },
     {
@@ -135,8 +135,8 @@ const data = [
         "testimonial": "Qualifying exams is indeed a big task but qualifying them with basics Clear makes it worth.Pharmacad focuses particularly clearing minor doubts which leads to very Strong Foundation and exams like GPAT demands this. I like to thank all teachers of team Pharmacad in supporting, Guiding and motivating me in my GPAT journey.THANK YOU Team PHARMACAD",
         "name": "Gayatri Tambe",
         "rank": "AIR 79 – GPAT 2021",
-        "link": "",
-        "college": ""
+        "link": "https://www.bcp.edu.in/",
+        "college": "Bombay College of Pharmacy"
 
     },
     {
@@ -144,8 +144,8 @@ const data = [
         "testimonial": "Pharmacad has showed me the right direction to understand my subjects and grasp the basics well. It formed the strong pillars on which my GPAT/NIPER preparations were done smoothly and efficiently. I am highly obliged and thank Team Pharmacad for helping me achieve my goal.",
         "name": "Sanjana Nayak",
         "rank": "AIR 80 – NIPER 2018 | AIR 175 – GPAT 2018",
-        "link": "",
-        "college": ""
+        "link": "https://sndt.ac.in/index.php/cushahpharmacy",
+        "college": "SNDT C. U. Shah College Of Pharmacy"
 
     },
     {
@@ -162,8 +162,8 @@ const data = [
         "testimonial": "I would like to thank the entire team of Pharmacad for the efforts they put in which helped me in securing such a good score. I would specially thank the team for the constant motivation, positivity and belief which played an important role in me performing well.The classroom filled with dynamic and competent energy brought out the spark in me.Thank you Team Pharmacad ! I'am a Pharmacist and I am proud to be one",
         "name": "Kanan Panchal",
         "rank": "AIR 142 – NIPER 2018 | AIR 227 – GPAT 2018",
-        "link": "",
-        "college": ""
+        "link": "https://www.bcp.edu.in/",
+        "college": "Bombay College of Pharmacy"
 
     },
     {
@@ -171,8 +171,8 @@ const data = [
         "testimonial": "It has been very nice experience to be part of Pharmacad.The study material provided by them and regular test was very helpful. I would like to thank all the faculty members and a very special thanks to Pranav sir and Jigyasa ma'am for their consistent support,guidance and motivation.Proud to be PHARMACADIAN.",
         "name": "Shubhangi Dwivedi",
         "rank": "AIR 208 – NIPER 2019 | AIR 270 – GPAT 2019",
-        "link": "",
-        "college": ""
+        "link": "https://sndt.ac.in/index.php/cushahpharmacy",
+        "college": "SNDT C. U. Shah College Of Pharmacy"
 
     },
     {
@@ -180,8 +180,8 @@ const data = [
         "testimonial": "Pharmacad has been a great journey.They not only focus on GPAT/NIPER oriented lectures but also on the overall development of students by arranging motivational lectures, industrial visits and various online courses. I'm very thankful to Pranav Sir,Jigyasa ma'am, Kruti ma'am and all teachers at Pharmacad for their constant guidance and support.THANK YOU TEAM PHARMACAD!!!",
         "name": "Vrushali Sadhu",
         "rank": "AIR 279 – NIPER 2019 | AIR 326 – GPAT 2019",
-        "link": "",
-        "college": ""
+        "link": "https://svbpharmacy.org/",
+        "college": "Saraswathi Vidya Bhavan's College of Pharmacy"
 
     },
     {
@@ -189,8 +189,8 @@ const data = [
         "testimonial": "PHARMACAD doesn’t just provide you with a teacher but a guide. All the subjects are taught by specialised teachers which is a must need. Topic, Subject and Mock tests provided on the website gave me the confidence and experience on how to go through the online interface of the examination. Not just that but individual student evaluation based on score and accuracy also student counselling played a very crucial role in attempting a high number of questions.",
         "name": "Ashuta Parab",
         "rank": "AIR 552 – GPAT 2020",
-        "link": "",
-        "college": ""
+        "link": "https://svbpharmacy.org/",
+        "college": "Saraswathi Vidya Bhavan's College of Pharmacy"
 
     },
     {
@@ -198,8 +198,8 @@ const data = [
         "testimonial": "Pharmacad motivated me a lot toward success. The dynamic team and their guidance motivated me to do something, which is extraordinary.Pharmacad is the place to create a new way toward success.",
         "name": "Saleha Khan",
         "rank": "AIR 173 – NIPER 2019  | AIR 821 – GPAT 2018 ",
-        "link": "",
-        "college": ""
+        "link": "https://aiktc.ac.in/",
+        "college": "Anjuman Islam Kalsekar College of Pharmacy"
 
     },
     {
@@ -207,8 +207,8 @@ const data = [
         "testimonial": "PHARMACAD is one of the best platform for students aspiring to crack GPAT and NIPER examinations. The best part about Pharmacad is it's faculty. Professionals associated with industry who are keen to give proper knowledge and exposure to the students which is something more than just academics. The counseling sessions, motivational lectures prove to be a boost for the student'sprogress. Benefit of students is their first priority which makes them the best !! It is definitely a first choice for B.Pharm students because it's something more than just study ..it's an experience in itself !!",
         "name": "Suraj Gupta",
         "rank": "AIR 211 – NIPER 2018 | AIR 873 – GPAT 2018 ",
-        "link": "",
-        "college": ""
+        "link": "https://kmkcp.edu.in/",
+        "college": "Principal K. M. Kundnani College of Pharmacy"
 
     },
     {
@@ -216,8 +216,8 @@ const data = [
         "testimonial": "Pharmacad has not just helped me in clearing up my concepts but also gave me the right direction and approach by illuminating my career path. It has not just focused on the ranks and marks but the overall development of the budding pharmacists. The young, competent and enthusiastic faculty also made us cognizant of the current scenario of the Pharma industry. Last but not the least,'Be the part of change, Be team Pharmacad!!' #ProudPharmacadian",
         "name": "Vidhi Joshi",
         "rank": "AIR 846 – GPAT 2019",
-        "link": "",
-        "college": ""
+        "link": "https://sndt.ac.in/index.php/cushahpharmacy",
+        "college": "SNDT C. U. Shah College Of Pharmacy"
 
     },
     {
@@ -225,17 +225,17 @@ const data = [
         "testimonial": "Pharmacad the best place where I got all concepts cleared in Pharmacology and Organic Chemistry.Best breakthrough I got for GPAT and Phd.Best orientation for GPAT preparation and time management. Thank you",
         "name": "Ashay Kumar",
         "rank": "GPAT 2018 – QUALIFIED",
-        "link": "",
-        "college": ""
+        "link": "http://bvcop.in/",
+        "college": "BHARATI VIDYAPEETH'S COLLEGE OF PHARMACY"
 
     },
     {
         "id": 15,
         "testimonial": "Pharmacad has given me the confidence about my profession. All the faculty members always helped us with our doubts and guided us thoroughly.And nevertheless...Pranav Sir and Kruti Ma'am were the constant pillars of support and motivation throughout this journey.",
-        "name": "Ranchana Gore",
+        "name": "Rachana Gore",
         "rank": "GPAT 2019 – QUALIFIED",
-        "link": "",
-        "college": ""
+        "link": "https://sndt.ac.in/index.php/cushahpharmacy",
+        "college": "SNDT C. U. Shah College Of Pharmacy"
 
     },
 
