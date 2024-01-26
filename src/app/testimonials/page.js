@@ -3,6 +3,7 @@ import TestimonialsCard from "../../components/TestimonialsCard"
 import data from "../../components/testimonials_data"
 import "../../styles/globals.css";
 import Footer from "@/components/footer";
+import Link from "next/link";
 
 export default function TestimonialsPage() {
     const testimonialDataArray = Object.values(data);

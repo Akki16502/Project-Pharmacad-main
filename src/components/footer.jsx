@@ -44,7 +44,7 @@ const Footer = () => {
                   </li>
                   <li className="mb-2">
                     <Link
-                      href="#CoursesOffered"
+                      href="/courses"
                       className="text-white hover:text-gray-600 font-inter pr-4"
                     >
                       Courses
